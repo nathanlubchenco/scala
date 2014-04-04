@@ -1,0 +1,274 @@
+[0m[[0minfo[0m] [0mUpdating {file:/Users/simpleenergy/personal/scala/}scala...[0m
+[0m[[0mdebug[0m] [0m:: resolving dependencies :: util#util_2.10;0.1-SNAPSHOT[0m
+[0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
+[0m[[0mdebug[0m] [0m	validate = true[0m
+[0m[[0mdebug[0m] [0m	refresh = false[0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'compile'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.10.3 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31502ec7[0m
+[0m[[0mdebug[0m] [0m		tried /Users/simpleenergy/.ivy2/local/org.scala-lang/scala-library/2.10.3/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: no ivy file found for org.scala-lang#scala-library;2.10.3[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.3/scala-library-2.10.3.pom[0m
+[0m[[0mdebug[0m] [0m	public: found md file for org.scala-lang#scala-library;2.10.3[0m
+[0m[[0mdebug[0m] [0m		=> http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.3/scala-library-2.10.3.pom (2.10.3)[0m
+[0m[[0mdebug[0m] [0mdownloading http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.3/scala-library-2.10.3.pom ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.3/scala-library-2.10.3.pom[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.3/scala-library-2.10.3.pom.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.3/scala-library-2.10.3.pom[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-library;2.10.3!scala-library.pom(pom.original) (267ms)[0m
+[0m[[0mdebug[0m] [0m		tried /Users/simpleenergy/.ivy2/local/org.scala-lang/scala-library/2.10.3/jars/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/org/scala-lang/scala-library/2.10.3/scala-library-2.10.3.jar[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.10.3 in public[0m
+[0m[[0mdebug[0m] [0m	[2.10.3] org.scala-lang#scala-library;2.10.3[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->default(compile)][0m
+[0m[[0minfo[0m] [0mResolving org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT {compile=[default(compile)]}[0m
+[0m[[0mdebug[0m] [0mdon't use cache for org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT: changing=true[0m
+[0m[[0mdebug[0m] [0mdon't use cache for org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT: changing=true[0m
+[0m[[0mdebug[0m] [0m		tried /Users/simpleenergy/.ivy2/local/org.scalaz/scalaz-core_2.10/7.1.0-SNAPSHOT/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: no ivy file found for org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT[0m
+[0m[[0mdebug[0m] [0mdon't use cache for org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT: changing=true[0m
+[0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=http://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.10/7.1.0-SNAPSHOT/maven-metadata.xml[0m
+[0m[[0mdebug[0m] [0m	maven-metadata not available: http://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.10/7.1.0-SNAPSHOT/maven-metadata.xml[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.10/7.1.0-SNAPSHOT/scalaz-core_2.10-7.1.0-SNAPSHOT.pom[0m
+[0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=http://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.10/7.1.0-SNAPSHOT/scalaz-core_2.10-7.1.0-SNAPSHOT.pom[0m
+[0m[[0mdebug[0m] [0m	public: no ivy file found for org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT[0m
+[0m[[0mdebug[0m] [0mdon't use cache for org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT: changing=true[0m
+[0m[[0mdebug[0m] [0m		tried https://oss.sonatype.org/content/repositories/snapshots/org/scalaz/scalaz-core_2.10/7.1.0-SNAPSHOT/scalaz-core_2.10-7.1.0-SNAPSHOT.pom[0m
+[0m[[0mdebug[0m] [0m	sonatype snapshots: found md file for org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT[0m
+[0m[[0mdebug[0m] [0m		=> https://oss.sonatype.org/content/repositories/snapshots/org/scalaz/scalaz-core_2.10/7.1.0-SNAPSHOT/scalaz-core_2.10-7.1.0-SNAPSHOT.pom (7.1.0-SNAPSHOT)[0m
+[0m[[0mdebug[0m] [0mdownloading https://oss.sonatype.org/content/repositories/snapshots/org/scalaz/scalaz-core_2.10/7.1.0-SNAPSHOT/scalaz-core_2.10-7.1.0-SNAPSHOT.pom ...[0m
+[0m[[0mdebug[0m] [0m	sonatype snapshots: downloading https://oss.sonatype.org/content/repositories/snapshots/org/scalaz/scalaz-core_2.10/7.1.0-SNAPSHOT/scalaz-core_2.10-7.1.0-SNAPSHOT.pom[0m
+[0m[[0mdebug[0m] [0m	sonatype snapshots: downloading https://oss.sonatype.org/content/repositories/snapshots/org/scalaz/scalaz-core_2.10/7.1.0-SNAPSHOT/scalaz-core_2.10-7.1.0-SNAPSHOT.pom.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://oss.sonatype.org/content/repositories/snapshots/org/scalaz/scalaz-core_2.10/7.1.0-SNAPSHOT/scalaz-core_2.10-7.1.0-SNAPSHOT.pom[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT!scalaz-core_2.10.pom(pom.original) (298ms)[0m
+[0m[[0mdebug[0m] [0m		tried /Users/simpleenergy/.ivy2/local/org.scalaz/scalaz-core_2.10/7.1.0-SNAPSHOT/bundles/scalaz-core_2.10.jar[0m
+[0m[[0mdebug[0m] [0m	maven-metadata not available: http://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.10/7.1.0-SNAPSHOT/maven-metadata.xml[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.10/7.1.0-SNAPSHOT/scalaz-core_2.10-7.1.0-SNAPSHOT.jar[0m
+[0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=http://repo1.maven.org/maven2/org/scalaz/scalaz-core_2.10/7.1.0-SNAPSHOT/scalaz-core_2.10-7.1.0-SNAPSHOT.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://oss.sonatype.org/content/repositories/snapshots/org/scalaz/scalaz-core_2.10/7.1.0-SNAPSHOT/scalaz-core_2.10-7.1.0-SNAPSHOT.jar[0m
+[0m[[0mdebug[0m] [0morg.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT is changing, but has not changed: will trust cached artifacts if any[0m
+[0m[[0mdebug[0m] [0mDeleting additional old artifacts from cache for changed module org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT:[0m
+[0m[[0mdebug[0m] [0m	/Users/simpleenergy/.ivy2/cache/org.scalaz/scalaz-core_2.10/bundles/scalaz-core_2.10-7.0.2.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/simpleenergy/.ivy2/cache/org.scalaz/scalaz-core_2.10/bundles/scalaz-core_2.10-7.0.6.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/simpleenergy/.ivy2/cache/org.scalaz/scalaz-core_2.10/bundles/scalaz-core_2.10-7.1.0-M6.jar[0m
+[0m[[0mdebug[0m] [0m	found org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT in sonatype snapshots[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->master][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->master][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'test'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [test][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->master][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'provided'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [provided][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'optional'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'compile-internal'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [compile-internal][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [provided][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime-internal'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [runtime-internal][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'test-internal'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [test-internal][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [test][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->default(compile)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.2 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [optional][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [provided][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'plugin'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [plugin][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'sources'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [sources][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'docs'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [docs][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'pom'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [pom][0m
+[0m[[0mdebug[0m] [0mresolving dependencies for configuration 'scala-tool'[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies for util#util_2.10;0.1-SNAPSHOT [scala-tool][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.3 [scala-tool->default][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-compiler;2.10.3 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.10.3 {scala-tool=[default, optional(default)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.10.3[0m
+[0m[[0mdebug[0m] [0m	local: revision in cache: org.scala-lang#scala-compiler;2.10.3[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-compiler;2.10.3 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.3 [scala-tool->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.3 [scala-tool->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-library;2.10.3 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-library;2.10.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-library;2.10.3 [compile->default][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-library;2.10.3 [compile->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-library;2.10.3 [compile->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-library;2.10.3 [compile->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-library;2.10.3 [compile->optional(default)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-reflect;2.10.3 [compile->master(*)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#scala-reflect;2.10.3 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang#scala-reflect;2.10.3 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0m		tried /Users/simpleenergy/.ivy2/local/org.scala-lang/scala-reflect/2.10.3/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: no ivy file found for org.scala-lang#scala-reflect;2.10.3[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.10.3/scala-reflect-2.10.3.pom[0m
+[0m[[0mdebug[0m] [0m	public: found md file for org.scala-lang#scala-reflect;2.10.3[0m
+[0m[[0mdebug[0m] [0m		=> http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.10.3/scala-reflect-2.10.3.pom (2.10.3)[0m
+[0m[[0mdebug[0m] [0mdownloading http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.10.3/scala-reflect-2.10.3.pom ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.10.3/scala-reflect-2.10.3.pom[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.10.3/scala-reflect-2.10.3.pom.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.10.3/scala-reflect-2.10.3.pom[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.10.3!scala-reflect.pom(pom.original) (306ms)[0m
+[0m[[0mdebug[0m] [0m		tried /Users/simpleenergy/.ivy2/local/org.scala-lang/scala-reflect/2.10.3/jars/scala-reflect.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.10.3/scala-reflect-2.10.3.jar[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-reflect;2.10.3 in public[0m
+[0m[[0mdebug[0m] [0m	[2.10.3] org.scala-lang#scala-reflect;2.10.3[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-reflect;2.10.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-reflect;2.10.3->org.scala-lang#scala-library;2.10.3 [compile->master(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-reflect;2.10.3->org.scala-lang#scala-library;2.10.3 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-library;2.10.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-library;2.10.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-reflect;2.10.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#scala-reflect;2.10.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-reflect;2.10.3->org.scala-lang#scala-library;2.10.3 [runtime->runtime(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-reflect;2.10.3->org.scala-lang#scala-library;2.10.3 [runtime->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.3 [scala-tool->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-compiler;2.10.3 [scala-tool->optional(default)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#jline;2.10.3 [optional->master(*)][0m
+[0m[[0minfo[0m] [0mResolving org.scala-lang#jline;2.10.3 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang#jline;2.10.3 {optional=[compile(*), master(*)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#jline;2.10.3[0m
+[0m[[0mdebug[0m] [0m	local: revision in cache: org.scala-lang#jline;2.10.3[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#jline;2.10.3 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#scala-compiler;2.10.3->org.scala-lang#jline;2.10.3 [optional->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#jline;2.10.3->org.fusesource.jansi#jansi;1.4 [compile->master(*)][0m
+[0m[[0minfo[0m] [0mResolving org.fusesource.jansi#jansi;1.4 ...[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.fusesource.jansi#jansi;1.4 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.fusesource.jansi#jansi;1.4[0m
+[0m[[0mdebug[0m] [0m	local: revision in cache: org.fusesource.jansi#jansi;1.4[0m
+[0m[[0mdebug[0m] [0m	found org.fusesource.jansi#jansi;1.4 in sbt-chain[0m
+[0m[[0mdebug[0m] [0m== resolving dependencies org.scala-lang#jline;2.10.3->org.fusesource.jansi#jansi;1.4 [compile->compile(*)][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [scala-tool->default][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [scala-tool->runtime][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [scala-tool->compile][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [scala-tool->master][0m
+[0m[[0mdebug[0m] [0m== resolving dependencies util#util_2.10;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.3 [scala-tool->optional(default)][0m
+[0m[[0mdebug[0m] [0m	resolved ivy file produced in /Users/simpleenergy/personal/scala/target/resolution-cache/util/util_2.10/0.1-SNAPSHOT/resolved.xml.xml[0m
+[0m[[0mdebug[0m] [0m:: downloading artifacts ::[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-library;2.10.3!scala-library.jar[0m
+[0m[[0mdebug[0m] [0m		tried https://oss.sonatype.org/content/repositories/snapshots/org/scalaz/scalaz-core_2.10/7.1.0-SNAPSHOT/scalaz-core_2.10-7.1.0-SNAPSHOT.jar[0m
+[0m[[0minfo[0m] [0mdownloading https://oss.sonatype.org/content/repositories/snapshots/org/scalaz/scalaz-core_2.10/7.1.0-SNAPSHOT/scalaz-core_2.10-7.1.0-SNAPSHOT.jar ...[0m
+[0m[[0mdebug[0m] [0m	sonatype snapshots: downloading https://oss.sonatype.org/content/repositories/snapshots/org/scalaz/scalaz-core_2.10/7.1.0-SNAPSHOT/scalaz-core_2.10-7.1.0-SNAPSHOT.jar[0m
+[0m[[0mdebug[0m] [0m	sonatype snapshots: downloading https://oss.sonatype.org/content/repositories/snapshots/org/scalaz/scalaz-core_2.10/7.1.0-SNAPSHOT/scalaz-core_2.10-7.1.0-SNAPSHOT.jar.sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for https://oss.sonatype.org/content/repositories/snapshots/org/scalaz/scalaz-core_2.10/7.1.0-SNAPSHOT/scalaz-core_2.10-7.1.0-SNAPSHOT.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scalaz#scalaz-core_2.10;7.1.0-SNAPSHOT!scalaz-core_2.10.jar(bundle) (3866ms)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.3!scala-compiler.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.10.3!scala-reflect.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.3!jline.jar[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 2973ms :: artifacts dl 3874ms[0m
+[0m[[0mdebug[0m] [0m	report for util#util_2.10;0.1-SNAPSHOT compile produced in /Users/simpleenergy/personal/scala/target/resolution-cache/reports/util-util_2.10-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for util#util_2.10;0.1-SNAPSHOT runtime produced in /Users/simpleenergy/personal/scala/target/resolution-cache/reports/util-util_2.10-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for util#util_2.10;0.1-SNAPSHOT test produced in /Users/simpleenergy/personal/scala/target/resolution-cache/reports/util-util_2.10-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for util#util_2.10;0.1-SNAPSHOT provided produced in /Users/simpleenergy/personal/scala/target/resolution-cache/reports/util-util_2.10-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for util#util_2.10;0.1-SNAPSHOT optional produced in /Users/simpleenergy/personal/scala/target/resolution-cache/reports/util-util_2.10-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for util#util_2.10;0.1-SNAPSHOT compile-internal produced in /Users/simpleenergy/personal/scala/target/resolution-cache/reports/util-util_2.10-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for util#util_2.10;0.1-SNAPSHOT runtime-internal produced in /Users/simpleenergy/personal/scala/target/resolution-cache/reports/util-util_2.10-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for util#util_2.10;0.1-SNAPSHOT test-internal produced in /Users/simpleenergy/personal/scala/target/resolution-cache/reports/util-util_2.10-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for util#util_2.10;0.1-SNAPSHOT plugin produced in /Users/simpleenergy/personal/scala/target/resolution-cache/reports/util-util_2.10-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for util#util_2.10;0.1-SNAPSHOT sources produced in /Users/simpleenergy/personal/scala/target/resolution-cache/reports/util-util_2.10-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for util#util_2.10;0.1-SNAPSHOT docs produced in /Users/simpleenergy/personal/scala/target/resolution-cache/reports/util-util_2.10-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for util#util_2.10;0.1-SNAPSHOT pom produced in /Users/simpleenergy/personal/scala/target/resolution-cache/reports/util-util_2.10-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for util#util_2.10;0.1-SNAPSHOT scala-tool produced in /Users/simpleenergy/personal/scala/target/resolution-cache/reports/util-util_2.10-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (2973ms resolve - 3874ms download)[0m
+[0m[[0minfo[0m] [0mDone updating.[0m

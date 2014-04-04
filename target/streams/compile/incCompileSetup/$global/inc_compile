@@ -1,0 +1,177 @@
+format version: 1
+products:
+39 items
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$$anon$1.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$EmptyStream$.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$Error.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$MedianAbsoluteDeviationError$.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$NoReplacement$.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$PercentileError$.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$SingleElementStream$.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Mean$.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Mean.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Median$.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Median.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/MedianAbsoluteDeviation$.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/MedianAbsoluteDeviation.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Sampling$$anonfun$util$stats$Sampling$$go$4$1.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Sampling$$anonfun$util$stats$Sampling$$go$4$2.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Sampling$.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Sampling.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StandardDeviation$.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StandardDeviation.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianAbsoluteDeviation$1.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianAbsoluteDeviation$2$$anonfun$apply$1.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianAbsoluteDeviation$2$$anonfun$apply$2$$anonfun$3.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianAbsoluteDeviation$2$$anonfun$apply$2.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianAbsoluteDeviation$2.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianApproximation$1.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianApproximation$2$$anonfun$4.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianApproximation$2$$anonfun$5.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianApproximation$2.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$percentileApproximations$1.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$percentileApproximations$2$$anonfun$1.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$percentileApproximations$2$$anonfun$2.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$percentileApproximations$2$$anonfun$6.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$percentileApproximations$2.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Variance$.class
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Variance.class
+binary dependencies:
+6 items
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> /Users/simpleenergy/.ivy2/cache/org.scalaz/scalaz-core_2.10/bundles/scalaz-core_2.10-7.1.0-SNAPSHOT.jar
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> /Users/simpleenergy/.sbt/boot/scala-2.10.3/lib/scala-library.jar
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/.ivy2/cache/org.scalaz/scalaz-core_2.10/bundles/scalaz-core_2.10-7.1.0-SNAPSHOT.jar
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/.sbt/boot/scala-2.10.3/lib/scala-library.jar
+source dependencies:
+1 items
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> /Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala
+external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+class names:
+39 items
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> util.stats.StatsErrors
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> util.stats.StatsErrors$
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> util.stats.StatsErrors$$anon$1
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> util.stats.StatsErrors$EmptyStream$
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> util.stats.StatsErrors$Error
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> util.stats.StatsErrors$MedianAbsoluteDeviationError$
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> util.stats.StatsErrors$NoReplacement$
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> util.stats.StatsErrors$PercentileError$
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> util.stats.StatsErrors$SingleElementStream$
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.Mean
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.Mean$
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.Median
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.Median$
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.MedianAbsoluteDeviation
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.MedianAbsoluteDeviation$
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.Sampling
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.Sampling$
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.Sampling$$anonfun$util$stats$Sampling$$go$4$1
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.Sampling$$anonfun$util$stats$Sampling$$go$4$2
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.StandardDeviation
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.StandardDeviation$
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.StreamingStats
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.StreamingStats$
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.StreamingStats$$anonfun$medianAbsoluteDeviation$1
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.StreamingStats$$anonfun$medianAbsoluteDeviation$2
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.StreamingStats$$anonfun$medianAbsoluteDeviation$2$$anonfun$apply$1
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.StreamingStats$$anonfun$medianAbsoluteDeviation$2$$anonfun$apply$2
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.StreamingStats$$anonfun$medianAbsoluteDeviation$2$$anonfun$apply$2$$anonfun$3
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.StreamingStats$$anonfun$medianApproximation$1
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.StreamingStats$$anonfun$medianApproximation$2
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.StreamingStats$$anonfun$medianApproximation$2$$anonfun$4
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.StreamingStats$$anonfun$medianApproximation$2$$anonfun$5
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.StreamingStats$$anonfun$percentileApproximations$1
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.StreamingStats$$anonfun$percentileApproximations$2
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.StreamingStats$$anonfun$percentileApproximations$2$$anonfun$1
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.StreamingStats$$anonfun$percentileApproximations$2$$anonfun$2
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.StreamingStats$$anonfun$percentileApproximations$2$$anonfun$6
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.Variance
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> util.stats.Variance$
+product stamps:
+39 items
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Mean$.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Mean.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Median$.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Median.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/MedianAbsoluteDeviation$.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/MedianAbsoluteDeviation.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Sampling$$anonfun$util$stats$Sampling$$go$4$1.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Sampling$$anonfun$util$stats$Sampling$$go$4$2.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Sampling$.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Sampling.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StandardDeviation$.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StandardDeviation.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$$anon$1.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$EmptyStream$.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$Error.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$MedianAbsoluteDeviationError$.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$NoReplacement$.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$PercentileError$.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$SingleElementStream$.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianAbsoluteDeviation$1.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianAbsoluteDeviation$2$$anonfun$apply$1.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianAbsoluteDeviation$2$$anonfun$apply$2$$anonfun$3.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianAbsoluteDeviation$2$$anonfun$apply$2.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianAbsoluteDeviation$2.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianApproximation$1.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianApproximation$2$$anonfun$4.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianApproximation$2$$anonfun$5.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianApproximation$2.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$percentileApproximations$1.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$percentileApproximations$2$$anonfun$1.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$percentileApproximations$2$$anonfun$2.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$percentileApproximations$2$$anonfun$6.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$percentileApproximations$2.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Variance$.class -> lastModified(1396651285000)
+/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Variance.class -> lastModified(1396651285000)
+source stamps:
+2 items
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> hash(11fcd7661cd9b07e752d34a3e6f6eb416aa4b59b)
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> hash(22eb7b9f5be6279e1cb0df9cefea1424115c48a9)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1387422821000)
+/Users/simpleenergy/.ivy2/cache/org.scalaz/scalaz-core_2.10/bundles/scalaz-core_2.10-7.1.0-SNAPSHOT.jar -> lastModified(1396575128000)
+/Users/simpleenergy/.sbt/boot/scala-2.10.3/lib/scala-library.jar -> lastModified(1380275091000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/jre/lib/rt.jar -> java.io.Serializable
+/Users/simpleenergy/.ivy2/cache/org.scalaz/scalaz-core_2.10/bundles/scalaz-core_2.10-7.1.0-SNAPSHOT.jar -> scalaz.syntax.package$
+/Users/simpleenergy/.sbt/boot/scala-2.10.3/lib/scala-library.jar -> scala.Equals
+internal apis:
+2 items
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSIdu0j8FrMwCAAVJAAdhcGlIYXNoWgAIaGFzTWFjcm9MAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHASP9ROAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AA54cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAWdXRpbC5zdGF0cy5TdGF0c0Vycm9yc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+ACh4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+ACcAcHNxAH4ALHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAOTAAJaW5oZXJpdGVkcQB+AA5MAAdwYXJlbnRzcQB+AA54cQB+ADBzcQB+ACcAcHNxAH4ALHVxAH4ACQAAAABzcQB+ACcAcHNxAH4ALHVxAH4ACQAAAABzcQB+ACcAcHNxAH4ALHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAVTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AL3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AL3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABV4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4ATHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4ATXNxAH4AQHQAA0FueXNxAH4ARHNxAH4AR3VxAH4ASgAAAAJzcQB+AEx0AAVzY2FsYXEAfgBTdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4AFXhwdAAEdXRpbHNxAH4AXXQACnV0aWwuc3RhdHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUUu509RdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAVTAAPc291cmNlRGlyZWN0b3J5cQB+ABV4cHQAPC9Vc2Vycy9zaW1wbGVlbmVyZ3kvcGVyc29uYWwvc2NhbGEvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBH812Yc2bB+dS00o+b260FqpLWb
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSIdu0j8FrMwCAAVJAAdhcGlIYXNoWgAIaGFzTWFjcm9MAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCO9bj1AHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAdzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AA54cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAZdXRpbC5zdGF0cy5TdHJlYW1pbmdTdGF0c3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+ACh4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+ACcAcHNxAH4ALHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAOTAAJaW5oZXJpdGVkcQB+AA5MAAdwYXJlbnRzcQB+AA54cQB+ADBzcQB+ACcAcHNxAH4ALHVxAH4ACQAAAABzcQB+ACcAcHNxAH4ALHVxAH4ACQAAAABzcQB+ACcAcHNxAH4ALHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAVTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AL3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AL3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXB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AJQAAAABzcQB+ACcAcHNxAH4ALHEAfgAxc3EAfgAnAHBzcQB+ACxzcQB+ADRzcQB+ACcAcHNxAH4ALHVxAH4ACQAAAABzcQB+ACcAcHNxAH4ALHVxAH4ACQAAAABzcQB+ACcAcHNxAH4ALHVxAH4APgAAAAdzcQB+AEBxAH4AkXNxAH4ARHNxAH4AR3VxAH4ASgAAAAJzcQB+AExxAH4AWnEAfgBTc3EAfgBAcQB+AJFzcQB+AERzcQB+AEd1cQB+AEoAAAADc3EAfgBMcQB+AE9zcQB+AEx0AAJpb3EAfgBTc3EAfgBAcQB+AJ5xAH4BCXNxAH4AQHQABkVxdWFsc3EAfgEJc3EAfgBAcQB+AKJxAH4BCXNxAH4AQHQAB05vdE51bGxxAH4BCXNxAH4AQHEAfgBVcQB+AQlzcQB+AAtxAH4AGXVxAH4AGgAAAABzcQB+ABwEdAAidXRpbC5zdGF0cy5NZWRpYW5BYnNvbHV0ZURldmlhdGlvbnVxAH4AHwAAAABxAH4Af3VxAH4AJQAAAABzcQB+ACcAcHNxAH4ALHEAfgAxc3EAfgAnAHBzcQB+ACxzcQB+ADRzcQB+ACcAcHNxAH4ALHVxAH4ACQAAAABzcQB+ACcAcHNxAH4ALHVxAH4ACQAAAABzcQB+ACcAcHNxAH4ALHVxAH4APgAAAAdzcQB+AEBxAH4AkXNxAH4ARHNxAH4AR3VxAH4ASgAAAAJzcQB+AExxAH4AWnEAfgBTc3EAfgBAcQB+AJFzcQB+AERzcQB+AEd1cQB+AEoAAAADc3EAfgBMcQB+AE9zcQB+AEx0AAJpb3EAfgBTc3EAfgBAcQB+AJ5xAH4BMHNxAH4AQHQABkVxdWFsc3EAfgEwc3EAfgBAcQB+AKJxAH4BMHNxAH4AQHQAB05vdE51bGxxAH4BMHNxAH4AQHEAfgBVcQB+ATB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAVeHB0AAR1dGlsc3EAfgFEdAAKdXRpbC5zdGF0c3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABRS7nT1F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABVMAA9zb3VyY2VEaXJlY3RvcnlxAH4AFXhwdAA8L1VzZXJzL3NpbXBsZWVuZXJneS9wZXJzb25hbC9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUIut7n1vmJ54csN+c7+oUJBFcSKk=
+external apis:
+0 items
+source infos:
+2 items
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala -> 
+AAAAAAAAAAA=
+/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+000 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABRS7nT1F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9zaW1wbGVlbmVyZ3kvcGVyc29uYWwvc2NhbGEvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+compile setup:
+1 items
+1 -> 
+AAA8L1VzZXJzL3NpbXBsZWVuZXJneS9wZXJzb25hbC9zY2FsYS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzAAAAAAAAAAAABjIuMTAuMwAAAAA=

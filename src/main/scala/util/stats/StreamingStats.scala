@@ -2,7 +2,6 @@ package util.stats
 
 import java.lang.Math._
 import scala.util.Random
-import scalaz.Show
 import scalaz._
 import scalaz.syntax.either._
 import scalaz.syntax.std.stream
