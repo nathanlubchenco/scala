@@ -1,0 +1,107 @@
+[0m[[0mdebug[0m] [0mInvalidating /Users/simpleenergy/.ivy2/cache/org.scalaz/scalaz-core_2.10/bundles/scalaz-core_2.10-7.1.0-SNAPSHOT.jar: could not find class scalaz.syntax.ToEitherOps on the classpath.[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set(/Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Mean.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Variance.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianAbsoluteDeviation$1.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianApproximation$2$$anonfun$5.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$EmptyStream$.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$SingleElementStream$.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianAbsoluteDeviation$2$$anonfun$apply$2.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$MedianAbsoluteDeviationError$.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$percentileApproximations$2.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianAbsoluteDeviation$2.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianApproximation$2.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Sampling$$anonfun$util$stats$Sampling$$go$4$2.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StandardDeviation.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Median.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/MedianAbsoluteDeviation$.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$$anon$1.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$Error.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$percentileApproximations$2$$anonfun$1.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianApproximation$1.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianAbsoluteDeviation$2$$anonfun$apply$1.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/MedianAbsoluteDeviation.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Mean$.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Sampling$.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Variance$.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianAbsoluteDeviation$2$$anonfun$apply$2$$anonfun$3.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StandardDeviation$.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$medianApproximation$2$$anonfun$4.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$NoReplacement$.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Sampling$$anonfun$util$stats$Sampling$$go$4$1.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$percentileApproximations$1.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StatsErrors$PercentileError$.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$percentileApproximations$2$$anonfun$6.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Median$.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/StreamingStats$$anonfun$percentileApproximations$2$$anonfun$2.class, /Users/simpleenergy/personal/scala/target/scala-2.10/classes/util/stats/Sampling.class)[0m
+[0m[[0mdebug[0m] [0mModified external sources: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set(/Users/simpleenergy/.ivy2/cache/org.scalaz/scalaz-core_2.10/bundles/scalaz-core_2.10-7.1.0-SNAPSHOT.jar)[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala, /Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set(/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala, /Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala)[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala, /Users/simpleenergy/personal/scala/src/main/scala/util/stats/StatsErrors.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to /Users/simpleenergy/personal/scala/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.3[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.3[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 63354788, interfacing (CompilerInterface) with Scala compiler version 2.10.3[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/jre/classes:/Users/simpleenergy/.sbt/boot/scala-2.10.3/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/simpleenergy/personal/scala/target/scala-2.10/classes:/Users/simpleenergy/.ivy2/cache/org.scalaz/scalaz-core_2.10/bundles/scalaz-core_2.10-7.0.6.jar[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:6: object either is not a member of package scalaz.syntax[0m
+[0m[[31merror[0m] [0mimport scalaz.syntax.either._[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:20: value left is not a member of object util.stats.StatsErrors.EmptyStream[0m
+[0m[[31merror[0m] [0m    if (data.isEmpty) EmptyStream.left[0m
+[0m[[31merror[0m] [0m                                  ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:21: value right is not a member of util.stats.Mean[0m
+[0m[[31merror[0m] [0m    else go(data, 0, 0).right[0m
+[0m[[31merror[0m] [0m                        ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:33: value left is not a member of object util.stats.StatsErrors.SingleElementStream[0m
+[0m[[31merror[0m] [0m    if (data.size < 2) SingleElementStream.left[0m
+[0m[[31merror[0m] [0m                                           ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:34: value right is not a member of util.stats.Variance[0m
+[0m[[31merror[0m] [0m    else go(data, 0, 0, 0).right[0m
+[0m[[31merror[0m] [0m                           ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:46: value left is not a member of object util.stats.StatsErrors.SingleElementStream[0m
+[0m[[31merror[0m] [0m    if (data.size < 2) SingleElementStream.left[0m
+[0m[[31merror[0m] [0m                                           ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:47: value right is not a member of util.stats.StandardDeviation[0m
+[0m[[31merror[0m] [0m    else go(data, 0, 0, 0).right[0m
+[0m[[31merror[0m] [0m                           ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:51: value left is not a member of object util.stats.StatsErrors.EmptyStream[0m
+[0m[[31merror[0m] [0m    if (data.isEmpty) EmptyStream.left[0m
+[0m[[31merror[0m] [0m                                  ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:55: value left is not a member of object util.stats.StatsErrors.NoReplacement[0m
+[0m[[31merror[0m] [0m        _ => NoReplacement.left,[0m
+[0m[[31merror[0m] [0m                           ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:63: value right is not a member of util.stats.Median[0m
+[0m[[31merror[0m] [0m          if (sortedChunks.size % 2 == 0) Median((sortedChunks((sortedChunks.size / 2) - 1) + sortedChunks(sortedChunks.size / 2)) / 2).right[0m
+[0m[[31merror[0m] [0m                                                                                                                                        ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:64: value right is not a member of util.stats.Median[0m
+[0m[[31merror[0m] [0m          else Median(sortedChunks(sortedChunks.size / 2)).right[0m
+[0m[[31merror[0m] [0m                                                           ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:71: value left is not a member of object util.stats.StatsErrors.EmptyStream[0m
+[0m[[31merror[0m] [0m    if (data.isEmpty) EmptyStream.left[0m
+[0m[[31merror[0m] [0m                                  ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:73: value left is not a member of object util.stats.StatsErrors.PercentileError[0m
+[0m[[31merror[0m] [0m      else if(data.size < 10) PercentileError.left[0m
+[0m[[31merror[0m] [0m                                              ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:77: value left is not a member of object util.stats.StatsErrors.NoReplacement[0m
+[0m[[31merror[0m] [0m        _ => NoReplacement.left,[0m
+[0m[[31merror[0m] [0m                           ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:84: value right is not a member of scala.collection.immutable.Map[Int,Double][0m
+[0m[[31merror[0m] [0m          Map(result: _*).right[0m
+[0m[[31merror[0m] [0m                          ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:93: value left is not a member of object util.stats.StatsErrors.EmptyStream[0m
+[0m[[31merror[0m] [0m    if (data.isEmpty) EmptyStream.left[0m
+[0m[[31merror[0m] [0m                                  ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:97: value left is not a member of object util.stats.StatsErrors.MedianAbsoluteDeviationError[0m
+[0m[[31merror[0m] [0m      error => MedianAbsoluteDeviationError.left, // make new error probably[0m
+[0m[[31merror[0m] [0m                                            ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:101: value left is not a member of object util.stats.StatsErrors.NoReplacement[0m
+[0m[[31merror[0m] [0m          error => NoReplacement.left,[0m
+[0m[[31merror[0m] [0m                                 ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:109: value right is not a member of util.stats.MedianAbsoluteDeviation[0m
+[0m[[31merror[0m] [0m            if (size % 2 == 0) MedianAbsoluteDeviation((sorted((size / 2) - 1) + sorted(size / 2)) / 2).right else MedianAbsoluteDeviation(sorted(size / 2)).right[0m
+[0m[[31merror[0m] [0m                                                                                                        ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:109: value right is not a member of util.stats.MedianAbsoluteDeviation[0m
+[0m[[31merror[0m] [0m            if (size % 2 == 0) MedianAbsoluteDeviation((sorted((size / 2) - 1) + sorted(size / 2)) / 2).right else MedianAbsoluteDeviation(sorted(size / 2)).right[0m
+[0m[[31merror[0m] [0m                                                                                                                                                             ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:124: value right is not a member of Stream[Double][0m
+[0m[[31merror[0m] [0m      if ( data.isEmpty ) reservoir.right[0m
+[0m[[31merror[0m] [0m                                    ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:130: value left is not a member of object util.stats.StatsErrors.NoReplacement[0m
+[0m[[31merror[0m] [0m          randomReplacementInsert(data.head, reservoir).fold(_ => NoReplacement.left, r => go(data.tail, r, counter + 1))[0m
+[0m[[31merror[0m] [0m                                                                                ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:136: value left is not a member of object util.stats.StatsErrors.NoReplacement[0m
+[0m[[31merror[0m] [0m      if (stream.isEmpty ) NoReplacement.left[0m
+[0m[[31merror[0m] [0m                                         ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:137: value right is not a member of scala.collection.immutable.Stream[Double][0m
+[0m[[31merror[0m] [0m      else if ( stream.size == 1) Stream(element).right[0m
+[0m[[31merror[0m] [0m                                                  ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:140: value right is not a member of scala.collection.immutable.Stream[Double][0m
+[0m[[31merror[0m] [0m        (stream.take(index) ++ Stream(element) ++ stream.takeRight(stream.size - (index + 1))).right[0m
+[0m[[31merror[0m] [0m                                                                                               ^[0m
+[0m[[31merror[0m] [0m/Users/simpleenergy/personal/scala/src/main/scala/util/stats/StreamingStats.scala:144: value right is not a member of Stream[Double][0m
+[0m[[31merror[0m] [0m    if ( data.size <= size ) data.right // should this be an error instead?[0m
+[0m[[31merror[0m] [0m                                  ^[0m
+[0m[[31merror[0m] [0m26 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompile[0m) Compilation failed[0m

@@ -1,0 +1,40 @@
+compile
+test
+import util.stats
+import StreamingStats
+console
+exit
+test
+exit
+compile
+exit
+compile
+reload
+compile
+reload
+exit
+test
+exit
+test
+exit
+test
+exit
+compile
+;clean ;test
+ ;test
+reload
+ ;test
+reload
+;clean ;test
+reload
+;clean ;test
+reload
+;clean ;test
+reload
+;clean ;test
+reload
+;clean ;test
+reload
+;clean ;test
+reload
+;clean ;test
